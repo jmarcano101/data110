@@ -81,6 +81,9 @@ ___Some skills that bakers need to include:___
 ------------
 
 
+![AdobeStock_546614742](https://github.com/jmarcano101/data110/assets/157661277/92038e3d-436e-458a-b297-52c73e63fd1e)
+
+
 
 
 
