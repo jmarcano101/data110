@@ -1,6 +1,6 @@
 ---
 
-Pastry Club 
+_Pastry Club_
 
 Jennifer Marcano
 
@@ -8,27 +8,26 @@ January 25, 2024
 
 ---
 
-
+"Life is uncertain. Eat dessert first." - Ernestine Ulmer
 
 
 ![AdobeStock_488362427](https://github.com/jmarcano101/data110/assets/157661277/7d45ad8f-9574-41f3-afaa-486531f214bc)
 
 
-"Life is uncertain. Eat dessert first." - Ernestine Ulmer
+
 
 
 
 
 ![AdobeStock_576821525](https://github.com/jmarcano101/data110/assets/157661277/68a1e372-0664-4d0e-879f-6fc7307a2a60)
 
-Nutrition facts
+__Nutrition facts__
 
 | CUPCAKE           |   Stat  | 
 | :---------------- | :------:| 
-| Protein           |  4.3g   | 
-| Calories          |   305   | 
-| Total Fat         |   3.7g  | 
-
+| Protein           |  4.5g  | 
+| Calories          |  377  | 
+| Total Fat         |  16g  | 
 
 
 
@@ -49,7 +48,7 @@ Nutrition facts
 
 
 
-TASKS
+___TASKS___
 
 - [x] Mixing ingredients: Bakers mix and bake ingredients to create baked goods. This can include making dough for pies, rolls, and sweets, and preparing batters for muffins, cookies, and cakes.
 - [x] Preparing toppings: Bakers prepare fillings, icings, frostings, glazes, and creams.
@@ -57,7 +56,7 @@ TASKS
 - [x] Following recipes: Bakers follow recipes to create baked goods.
 - [x] Using equipment: Bakers run baking machinery, such as ovens, mixing machines, and other equipment.
 
-Some skills that bakers need include:
+___Some skills that bakers need to include:___
       
 - [ ] Knowledge of food production methods
 - [ ] Ability to work well with hands
