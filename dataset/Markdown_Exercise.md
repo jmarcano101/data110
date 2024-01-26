@@ -40,6 +40,42 @@ Nutrition facts
 
 
 
+![AdobeStock_633221840](https://github.com/jmarcano101/data110/assets/157661277/51aed0d1-e072-41a7-818f-8d3f8a3e79c1)
+
+
+
+
+
+
+
+
+TASKS
+
+- [x] Mixing ingredients: Bakers mix and bake ingredients to create baked goods. This can include making dough for pies, rolls, and sweets, and preparing batters for muffins, cookies, and cakes.
+- [x] Preparing toppings: Bakers prepare fillings, icings, frostings, glazes, and creams.
+- [x] Decorating baked goods: Bakers decorate baked goods with glaze, icing, and other toppings.
+- [x] Following recipes: Bakers follow recipes to create baked goods.
+- [x] Using equipment: Bakers run baking machinery, such as ovens, mixing machines, and other equipment.
+
+Some skills that bakers need include:
+      
+- [ ] Knowledge of food production methods
+- [ ] Ability to work well with hands
+- [ ] Attention to detail
+- [ ] Math knowledge
+- [ ] Ability to use initiative
+
+
+
+
+
+
+
+
+
+------------
+
+
 
 
 
@@ -50,5 +86,6 @@ Nutrition facts
 >
 
 > --- Radi, data analyst at CENTOGENE
+
 
 
