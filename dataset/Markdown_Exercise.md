@@ -7,19 +7,25 @@ Jennifer Marcano
 January 25, 2024
 
 ---
+___"Welcome to our charming pastry haven, where every bite tells a delicious story! Step into a world of heavenly aromas, fluffy textures, and exquisite flavors that make your taste buds dance with joy. Our skilled pastry artisans have poured their passion and expertise into creating an enchanting array of delectable treats, from mouthwatering croissants to decadent cakes and everything in between. Indulge in the perfect balance of sweetness, precisely layered buttery goodness, and artful presentation that elevates each bite into a delightful experience. Whether you're seeking a delightful morning pick-me-up or a show-stopping dessert for a special occasion, prepare to be captivated by our pastry wonders. So step inside, let our sweet creations cast their spell on you, and savor the magic that is our pastry paradise."___
 
-"Life is uncertain. Eat dessert first." - Ernestine Ulmer
 
 
 ![AdobeStock_488362427](https://github.com/jmarcano101/data110/assets/157661277/7d45ad8f-9574-41f3-afaa-486531f214bc)
 
 
 
-
-
-
-
 ![AdobeStock_576821525](https://github.com/jmarcano101/data110/assets/157661277/68a1e372-0664-4d0e-879f-6fc7307a2a60)
+
+
+"Life is uncertain. Eat dessert first." - Ernestine Ulmer
+
+
+
+
+
+
+
 
 __Nutrition facts__
 
