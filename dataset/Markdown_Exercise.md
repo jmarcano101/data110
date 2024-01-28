@@ -95,5 +95,8 @@ ___Some skills that bakers need to include:___
 
 > --- Radi, data analyst at CENTOGENE
 
-
-
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```
