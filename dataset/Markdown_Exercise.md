@@ -1,10 +1,12 @@
 ---
 
-_Pastry Club_
+## Pastry Club
 
 Jennifer Marcano
 
 January 25, 2024
+
+https://en.wikipedia.org/wiki/Data
 
 ---
 ___"Welcome to our charming pastry haven, where every bite tells a delicious story! Step into a world of heavenly aromas, fluffy textures, and exquisite flavors that make your taste buds dance with joy. Our skilled pastry artisans have poured their passion and expertise into creating an enchanting array of delectable treats, from mouthwatering croissants to decadent cakes and everything in between. Indulge in the perfect balance of sweetness, precisely layered buttery goodness, and artful presentation that elevates each bite into a delightful experience. Whether you're seeking a delightful morning pick-me-up or a show-stopping dessert for a special occasion, prepare to be captivated by our pastry wonders. So step inside, let our sweet creations cast their spell on you, and savor the magic that is our pastry paradise."___
@@ -18,9 +20,7 @@ ___"Welcome to our charming pastry haven, where every bite tells a delicious sto
 ![AdobeStock_576821525](https://github.com/jmarcano101/data110/assets/157661277/68a1e372-0664-4d0e-879f-6fc7307a2a60)
 
 
-"Life is uncertain. Eat dessert first." - Ernestine Ulmer
-
-
+## "Life is uncertain. Eat dessert first." - Ernestine Ulmer
 
 
 
@@ -54,7 +54,7 @@ __Nutrition facts__
 
 
 
-___TASKS___
+___Ordered TASKS___
 
 - [x] Mixing ingredients: Bakers mix and bake ingredients to create baked goods. This can include making dough for pies, rolls, and sweets, and preparing batters for muffins, cookies, and cakes.
 - [x] Preparing toppings: Bakers prepare fillings, icings, frostings, glazes, and creams.
@@ -62,18 +62,13 @@ ___TASKS___
 - [x] Following recipes: Bakers follow recipes to create baked goods.
 - [x] Using equipment: Bakers run baking machinery, such as ovens, mixing machines, and other equipment.
 
-___Some skills that bakers need to include:___
+___List of Some skills that bakers need to include:___
       
 - [ ] Knowledge of food production methods
 - [ ] Ability to work well with hands
 - [ ] Attention to detail
 - [ ] Math knowledge
 - [ ] Ability to use initiative
-
-
-
-
-
 
 
 
@@ -87,6 +82,14 @@ ___Some skills that bakers need to include:___
 
 
 
+
+
+
+
+
+
+
+
 > “Data analytics is the future, and the future is NOW! Every mouse click,
  keyboard button press, swipe or tap is used to shape business decisions.
  Everything is about data these days. Data is information, and information
@@ -95,8 +98,9 @@ ___Some skills that bakers need to include:___
 
 > --- Radi, data analyst at CENTOGENE
 
-```ruby
-require 'redcarpet'
-markdown = Redcarpet.new("Hello World!")
-puts markdown.to_html
-```
+
+
+
+
+FOOTNOTE[^1]
+[^1]: "Please note that all our pastries contain nuts. If you have a nut allergy, we recommend avoiding our products."
