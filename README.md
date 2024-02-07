@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jmarcano101
+- 👋 Hi, I’m Jennifer 
 - 👀 I’m interested in reading, playing video games and long walks 
 - 🌱 I’m currently learning data science and graphic design 
 
