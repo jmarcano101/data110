@@ -1,1 +1,22 @@
+import seaborn as sns
+import matplotlib.pyplot as plt
 
+plt.figure(figsize=(12,3))
+
+# Assuming 'df' is your DataFrame and it's already loaded
+# Specifying the order of the locations
+locations_order_reversed = ['Chicago', 'San Diego', 'Houston', 'Death Valley']
+
+# Grouping the data by location and month, then calculating the average temperature
+heatmap_data = df.groupby(['location', 'month'])['temperature'].mean().unstack(level=1)
+
+# Reordering the dataframe based on the reversed location order
+heatmap_data_reversed = heatmap_data.reindex(locations_order_reversed)
+
+# Plotting the heatmap
+
+sns.heatmap(heatmap_data_reversed, cmap="YlOrRd", linewidths=0.5, annot=False)
+plt.title('Average Monthly Temperature Normals by Location')
+plt.xlabel('Month')
+plt.ylabel('Location')
+plt.show()
